@@ -1,4 +1,4 @@
-# Electron React Webpack Tutorial
+# Electron React Webpack Boilerplate
 
 ### What is it?
 Simple boilerplate for fast start in [Electron](http://electron.atom.io), [React](https://facebook.github.io/react/), [React-Router](https://github.com/ReactTraining/react-router) and [Webpack](https://webpack.github.io/).
